@@ -8,3 +8,6 @@ a request is made internally with the API, it returns the requested values â€‹â€
 
 
 Technologies used: HTML5, CSS3 and JavaScript.
+
+
+By: Thaffarel Santiago Sales
